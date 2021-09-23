@@ -1,0 +1,64 @@
+{
+  "Locations": {
+    "Location": [{
+      "elevation": "50.0",
+      "id": "14",
+      "latitude": "54.9375",
+      "longitude": "-2.8092",
+      "name": "Carlisle Airport",
+      "region": "nw",
+      "unitaryAuthArea": "Cumbria"
+    }, {
+      "elevation": "22.0",
+      "id": "26",
+      "latitude": "53.3336",
+      "longitude": "-2.85",
+      "name": "Liverpool John Lennon Airport",
+      "region": "nw",
+      "unitaryAuthArea": "Merseyside"
+    }, {
+      "elevation": "25.0",
+      "id": "33",
+      "latitude": "60.4322",
+      "longitude": "-1.2992",
+      "name": "Scatsta",
+      "region": "os",
+      "unitaryAuthArea": "Shetland Islands"
+    }, {
+      "elevation": "7.0",
+      "id": "3066",
+      "latitude": "57.6494",
+      "longitude": "-3.5606",
+      "name": "Kinloss",
+      "region": "gr",
+      "unitaryAuthArea": "Moray"
+    }, {
+      "elevation": "6.0",
+      "id": "3068",
+      "latitude": "57.712",
+      "longitude": "-3.322",
+      "obsSource": "LNDSYN",
+      "name": "Lossiemouth",
+      "region": "gr",
+      "unitaryAuthArea": "Moray"
+    }, {
+      "elevation": "36.0",
+      "id": "3075",
+      "latitude": "58.454",
+      "longitude": "-3.089",
+      "obsSource": "LNDSYN",
+      "name": "Wick John O Groats Airport",
+      "region": "he",
+      "unitaryAuthArea": "Highland"
+    }, {
+      "elevation": "339.0",
+      "id": "3081",
+      "latitude": "57.006",
+      "longitude": "-3.397",
+      "name": "Braemar",
+      "nationalPark": "Cairngorms National Park",
+      "region": "gr",
+      "unitaryAuthArea": "Aberdeenshire"
+    }]
+  }
+}
