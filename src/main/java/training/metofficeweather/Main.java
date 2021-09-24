@@ -18,7 +18,7 @@ public class Main {
 
 
         Client client = ClientBuilder.newBuilder().register(JacksonFeature.class).build();
-        Object got = client.target(siteListUrl)
+        Root got = client.target(siteListUrl)
                 .request(MediaType.APPLICATION_JSON)
                 .get(Root.class);
 
